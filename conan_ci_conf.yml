@@ -18,7 +18,7 @@ repos:
    LIB_B/1.0:
      url: https://github.com/lasote/skynet_example.git
      branch: master
-     dir: ./recipes/b
+     dir: ./recipes/B
 
    LIB_C/1.0:
      url: https://github.com/lasote/skynet_example.git
